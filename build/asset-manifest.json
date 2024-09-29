@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GES/static/css/main.e916432a.css",
+    "main.js": "/GES/static/js/main.4e714970.js",
+    "static/media/imageloginpage.jpeg": "/GES/static/media/imageloginpage.6f2c7ec10ce20652bae1.jpeg",
+    "static/media/picc.jpeg": "/GES/static/media/picc.ef6b157b57be0e328724.jpeg",
+    "index.html": "/GES/index.html",
+    "main.e916432a.css.map": "/GES/static/css/main.e916432a.css.map",
+    "main.4e714970.js.map": "/GES/static/js/main.4e714970.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e916432a.css",
+    "static/js/main.4e714970.js"
+  ]
+}
